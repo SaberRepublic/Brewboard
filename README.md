@@ -2,8 +2,14 @@
 Brewboard Is a Shield for FX-SaberOS based soundboards. Its Designed to be as small as possible, and does the following;
 
  - Connects Arduino Nano, DFPlayer, and GY-521
- - Supports Neo-Pixel and RGB/RGBW Star LEDs
+ - Supports Neo-Pixel and RGB/RGBW Star LEDs and string blades (with added MOSFETs and resitors)
 
 Brewboard is equiped with 0805 resitors and sot23 MOSFETs to keep it's footprint small.
+
+Source files are being cleaned up and will be avaible soon in the mean time the boards can be ordered here;
+[OSHPark Brewboard Project](https://oshpark.com/shared_projects/X0aroqsG)
+
+This is a video demo of Brewboard V2 in action
+[![Brewboard V2](https://img.youtube.com/vi/12ZV0RvzIn0/0.jpg)](https://www.youtube.com/watch?v=12ZV0RvzIn0)
 
 ![Simple Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/README/BasicPinout.png)
