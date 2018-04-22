@@ -1,4 +1,7 @@
 # Brewboard
+PCB files for the Saber Republic Brewboard
+Format is EagleCAD schematic, board layout, and library 
+
 Brewboard Is a Shield for FX-SaberOS based soundboards. Its Designed to be as small as possible, and does the following;
 
  - Connects Arduino Nano, DFPlayer, and GY-521
@@ -6,7 +9,7 @@ Brewboard Is a Shield for FX-SaberOS based soundboards. Its Designed to be as sm
 
 Brewboard is equiped with 0805 resitors and sot23 MOSFETs to keep it's footprint small.
 
-Source files are being cleaned up and will be avaible soon in the mean time the boards can be ordered here;
+Direct order a board from OSHPark;
 
 [OSHPark Brewboard Project](https://oshpark.com/shared_projects/X0aroqsG)
 
