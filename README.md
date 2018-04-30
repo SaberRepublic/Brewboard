@@ -15,7 +15,7 @@ Brewboard is equiped with 0805 resitors and sot23 MOSFETs to keep it's footprint
 
 Direct order a board from OSHPark;
 
-[OSHPark Brewboard Project](https://oshpark.com/shared_projects/X0aroqsG)
+[OSHPark Brewboard Project V2.0.0](https://oshpark.com/shared_projects/X0aroqsG)
 
 
 This is a video demo of Brewboard V2 in action.
