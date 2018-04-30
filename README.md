@@ -23,6 +23,8 @@ This is a video demo of Brewboard V2 in action.
 [![Brewboard V2](https://img.youtube.com/vi/12ZV0RvzIn0/0.jpg)](https://www.youtube.com/watch?v=12ZV0RvzIn0)
 
 
-This is a simple pinout diagram.
+Pinout diagrams.
 
-![Simple Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/README/BasicPinout.png)
+![NeoPixel Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/README/Brewboard_2BTN_NeoPixel.png)
+
+![Star LED Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/README/Brewboard_2BTN_RGBStar.png)
