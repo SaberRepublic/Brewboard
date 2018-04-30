@@ -10,10 +10,10 @@ Brewboard Is a Shield for FX-SaberOS based soundboards. Its Designed to be as sm
  - Supports Neo-Pixel and RGB/RGBW Star LEDs and string blades (with added MOSFETs and resitors)
 
 
-Brewboard is equiped with 0805 resitors and sot23 MOSFETs to keep it's footprint small.
+Brewboard is uses 0805 resitors and sot23 MOSFETs to keep it's footprint small.
 
 
-Direct order a board from OSHPark;
+Direct order a board from OSHPark (These are with out resitors and MOSFETs);
 
 [OSHPark Brewboard Project V2.0.0](https://oshpark.com/shared_projects/X0aroqsG)
 
