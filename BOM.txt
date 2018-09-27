@@ -1,4 +1,4 @@
-Q1-Q4   2n7002k       MOSFET-NREFLOW SOT23        N-Channel Mosfet
-R1-R4, R6   100k Ohms     R-US_R0805        RESISTOR, American symbol
-R5   220 Ohm       R-US_R0805        RESISTOR, American symbol
-R7   470 kOhm      R-US_R0805        RESISTOR, American symbol
+Q1-Q4    si2302cds-t1-e3    MOSFET-NREFLOW SOT23        N-Channel Mosfet
+R1-R4, R6   100k Ohms     R-US_R0805    1/8w    RESISTOR, American symbol
+R5   220 Ohm       R-US_R0805    1/8w    RESISTOR, American symbol
+R7   470 kOhm      R-US_R0805    1/8w    RESISTOR, American symbol
