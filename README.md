@@ -23,7 +23,7 @@ This is a video demo of Brewboard V2 in action.
 [![Brewboard V2](https://img.youtube.com/vi/12ZV0RvzIn0/0.jpg)](https://www.youtube.com/watch?v=12ZV0RvzIn0)
 
 
-Pinout diagrams.
+V2 Pinout diagrams.
 
 ![NeoPixel Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/README/Brewboard_2BTN_NeoPixel.png)
 
