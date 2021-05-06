@@ -21,8 +21,8 @@ This is a video demo of Brewboard V2 in action.
 
 V2 Pinout diagrams.
 
-![NeoPixel Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/Documentation/Diagrams/BrewboardV4_2BTN_NeoPixel.pdf)
+![NeoPixel Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/Documentation/Diagrams/BrewboardV4_2BTN_NeoPixel.png)
 
-![Star LED Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/Documentation/Diagrams/BrewboardV4_2BTN_Star.pdf)
+![Star LED Pinout](https://github.com/SaberRepublic/Brewboard/blob/master/Documentation/Diagrams/BrewboardV4_2BTN_Star.png)
 
 For more Info Check the [Wiki](https://github.com/SaberRepublic/Brewboard/wiki)
