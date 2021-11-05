@@ -9,14 +9,15 @@ Brewboard is a carrier board for an Arduino Nano, DFPlayer and GY-521 accelerome
  - Supports Neo-Pixel and RGB/RGBW Star LEDs and string blades* (with added MOSFETs and resitors)
  - Uses 0805 resitors and sot23 MOSFETs to keep it's footprint small.
 
-You can direct order a board from here;
+You can direct order a board from here:
 [Saber Republic](https://saberrepublic.bigcartel.com)
 
-Model Can be viewed and downloaded here;
+Model Can be viewed and downloaded here:
 [Brewboard model](https://sketchfab.com/3d-models/brewboard-v401-b3-2d1b7a565fd34a01af89348552af9d3d?fbclid=IwAR2Z4agn1bq4F1va5oDxdcUzz3cNTd_BFyQfkR_E98XTOAC5beTIbSBYvWw)
 
 There two choices for firmware:
 [FX-SaberOS (opensource)](https://github.com/Protonerd/FX-SaberOS)
+
 [STREAM (closedsource but very user friendly)](https://github.com/JakeS0ft/STREAM)
 
 This is a video demo of Brewboard V2 in action.
