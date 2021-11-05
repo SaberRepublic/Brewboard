@@ -16,6 +16,7 @@ Model Can be viewed and downloaded here:
 [Brewboard model](https://sketchfab.com/3d-models/brewboard-v401-b3-2d1b7a565fd34a01af89348552af9d3d?fbclid=IwAR2Z4agn1bq4F1va5oDxdcUzz3cNTd_BFyQfkR_E98XTOAC5beTIbSBYvWw)
 
 There two choices for firmware:
+
 [FX-SaberOS (opensource)](https://github.com/Protonerd/FX-SaberOS)
 
 [STREAM (closedsource but very user friendly)](https://github.com/JakeS0ft/STREAM)
